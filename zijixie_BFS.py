@@ -1,5 +1,5 @@
 from collections import deque
-
+#最伟大的BFS
 def get_neighbors(x, y):
     # 上下左右四个方向
     s = [(-1, 0), (1, 0), (0, -1), (0, 1)]
